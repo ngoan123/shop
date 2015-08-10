@@ -1,2 +1,0 @@
-# shop
-Assignment INF205
